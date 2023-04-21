@@ -19,4 +19,4 @@ async def mem(ctx):
    with open("images/mem2/jpg","rb") as f:
      picture -discord.file(f)
      await ctx.send(file-picture)
-bot.run("MTA5NDIxMTQwMzgwOTgzMjk4MQ.G13LAT.Aq_IF8_85XbFyr0crBRDtNpDqpGnT3nzXpD3DI")
+bot.run("")
