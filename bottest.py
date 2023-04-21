@@ -46,4 +46,4 @@ async def heh(ctx, count_heh = 5):
 async def game(ctx):
     await ctx.send("")
 
-bot.run("MTA5NDIxMTQwMzgwOTgzMjk4MQ.G13LAT.Aq_IF8_85XbFyr0crBRDtNpDqpGnT3nzXpD3DI")
+bot.run("")
